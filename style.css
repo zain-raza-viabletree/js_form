@@ -1,0 +1,69 @@
+.form-head {
+  text-align: center;
+  padding: 30px;
+  font-size: 2.3em;
+  border: 5px solid black;
+  margin-bottom: 60px;
+  background-color: #009688;
+  color: white;
+}
+
+table {
+  margin-bottom: 15px;
+  border-collapse: initial;
+  text-align: center;
+}
+input {
+  margin: 5px;
+}
+th,
+td {
+  border: 1px solid #ccc;
+  font: 13px "verdana";
+  padding: 5px;
+}
+th {
+  font-weight: bold;
+  font-size: 20px;
+  padding: 10px;
+}
+td {
+  font-size: 15px;
+  padding: 7px;
+}
+table [type="text"],
+table [type="email"],
+table [type="radio"],
+table [type="email"] {
+  display: block;
+  width: 90px;
+}
+table select {
+  display: block;
+  width: 90px;
+  margin-top: 20px;
+}
+
+button {
+  margin-left: 13px;
+}
+
+#tabDiv {
+  text-align: -webkit-center;
+}
+
+#details {
+  text-align: center;
+}
+
+#mainInput {
+  margin-top: 20px;
+}
+
+#malestyling {
+  display: inline-block;
+}
+#femalestyling {
+  display: inline-block;
+  margin-right: 10px;
+}
